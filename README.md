@@ -1,2 +1,2 @@
 # hello-world
-First attempt
+First attempt into the new galaxy called GitHuber.
